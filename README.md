@@ -5,4 +5,6 @@ Este livro foi concebido como um guia prático para a administração de switche
 
 ISBN: 978-65-01-62652-9
 
+Disponível em versão digital em https://github.com/emmonks/Livro_Adm_Switches/releases/download/V1/Livro_ADM_Switches_Gerenciaveis_v1.pdf
+
 Disponível em versão impressa em https://loja.uiclap.com/titulo/ua110868
